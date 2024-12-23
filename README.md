@@ -20,7 +20,7 @@
     - id(게시판의 id) , name (게시판 이름) 
 ### | DELET 삭제 ("/v1/Board")
 - Pathveriable 파라미터
-  - id (게시판의 id) , name (게시판 이름)
+  - id (게시판의 id)
 
 # 2)게시글 (Post)
 
